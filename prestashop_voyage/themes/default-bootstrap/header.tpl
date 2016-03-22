@@ -71,7 +71,7 @@
 		<div id="page">
 			<div class="header-container">
 				<header id="header">
-					{capture name='displayBanner'}{hook h='displayBanner'}{/capture}
+					<!--{capture name='displayBanner'}{hook h='displayBanner'}{/capture}
 					{if $smarty.capture.displayBanner}
 						<div class="banner">
 							<div class="container">
@@ -80,7 +80,7 @@
 								</div>
 							</div>
 						</div>
-					{/if}
+					{/if}-->
 					{capture name='displayNav'}{hook h='displayNav'}{/capture}
 					{if $smarty.capture.displayNav}
 						<div class="nav">

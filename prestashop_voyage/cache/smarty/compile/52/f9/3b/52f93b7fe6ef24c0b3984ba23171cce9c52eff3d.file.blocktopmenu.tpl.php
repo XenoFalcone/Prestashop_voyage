@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-03-08 13:47:58
+<?php /* Smarty version Smarty-3.1.19, created on 2016-03-22 17:38:07
          compiled from "C:\wamp\www\Dm_prestashop\prestashop_voyage\themes\default-bootstrap\modules\blocktopmenu\blocktopmenu.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1197956dec9feb706a3-09042297%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:11256f174ef105933-38809111%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '52f93b7fe6ef24c0b3984ba23171cce9c52eff3d' => 
     array (
       0 => 'C:\\wamp\\www\\Dm_prestashop\\prestashop_voyage\\themes\\default-bootstrap\\modules\\blocktopmenu\\blocktopmenu.tpl',
-      1 => 1452095428,
+      1 => 1458664511,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1197956dec9feb706a3-09042297',
+  'nocache_hash' => '11256f174ef105933-38809111',
   'function' => 
   array (
   ),
@@ -23,11 +23,11 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_56dec9fec904d9_31298781',
+  'unifunc' => 'content_56f174ef228ee0_79138371',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_56dec9fec904d9_31298781')) {function content_56dec9fec904d9_31298781($_smarty_tpl) {?><?php if ($_smarty_tpl->tpl_vars['MENU']->value!='') {?>
+<?php if ($_valid && !is_callable('content_56f174ef228ee0_79138371')) {function content_56f174ef228ee0_79138371($_smarty_tpl) {?><?php if ($_smarty_tpl->tpl_vars['MENU']->value!='') {?>
 	<!-- Menu -->
-	<div id="block_top_menu" class="sf-contener clearfix col-lg-12">
+	<div id="block_top_menu" class="sf-contener clearfix col-sm-4">
 		<div class="cat-title"><?php echo smartyTranslate(array('s'=>"Menu",'mod'=>"blocktopmenu"),$_smarty_tpl);?>
 </div>
 		<ul class="sf-menu clearfix menu-content">
@@ -48,6 +48,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
 				</li>
 			<?php }?>
 		</ul>
+
 	</div>
 	<!--/ Menu -->
-<?php }?><?php }} ?>
+<?php }?>
+<?php }} ?>

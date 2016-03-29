@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>templatedebug</name>
+	<displayName><![CDATA[Template Debug]]></displayName>
+	<version><![CDATA[0.3.0]]></version>
+	<description><![CDATA[Template debug module]]></description>
+	<author><![CDATA[Loïc Sapone]]></author>
+	<tab><![CDATA[others]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>

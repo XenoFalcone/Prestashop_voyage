@@ -7230,10 +7230,10 @@ div.star a:hover {
     width: 20px; }
 
 .footer-container {
-  background-color: #333; }
+  background-color: #088CC2; }
   @media (min-width: 768px) {
     .footer-container {
-      background: url(../img/footer-bg.png) repeat-x #088CC2; } }
+      background-color: #088CC2; } }
   .footer-container .container {
     padding-bottom: 100px; }
   .footer-container #footer {
@@ -7306,7 +7306,7 @@ div.star a:hover {
       clear: left; }
     .footer-container #footer #social_block {
       float: left;
-      width: 50%;
+      width: 70%;
       padding: 22px 15px 0 15px; }
       @media (max-width: 767px) {
         .footer-container #footer #social_block {
@@ -7327,7 +7327,6 @@ div.star a:hover {
               width: 30px; } }
           .footer-container #footer #social_block ul li a {
             display: inline-block;
-            color: #908f8f;
             font-size: 28px; }
             @media (min-width: 768px) and (max-width: 991px) {
               .footer-container #footer #social_block ul li a {
@@ -7342,7 +7341,7 @@ div.star a:hover {
               -webkit-font-smoothing: antialiased;
               -moz-osx-font-smoothing: grayscale; }
             .footer-container #footer #social_block ul li a:hover {
-              color: #fff; }
+             }
           .footer-container #footer #social_block ul li.facebook a:before {
             content: "\f09a"; }
           .footer-container #footer #social_block ul li.twitter a:before {
@@ -7375,6 +7374,7 @@ div.star a:hover {
       bottom: -55px;
       left: 0; }
       .footer-container #footer .bottom-footer div {
+        text-align: center;
         padding: 15px 0 0 0;
         border-top: 1px solid #fff;
         width: 100%; }

@@ -1,3 +1,14 @@
+/*
+Theme colors:
+Bleu 1: #0770b3
+Bleu 2: #088CC2
+Turquoise 1: #05A498
+Turquoise 2: #0AD6B2
+Beige: #F3B783
+Gris: #999999
+Noir: #000
+blanc: #fff
+*/
 #currencies-block-top {
   float: right;
   border-left: 1px solid #515151;
@@ -46,7 +57,7 @@
     top: 37px;
     left: 0;
     width: 157px;
-    background: #333;
+    background: #0770b3;
     z-index: 2; }
     #currencies-block-top ul li {
       color: #fff;

@@ -208,10 +208,12 @@ ul.product_list.grid {
 			float: left;
 		}
 		.product-container {
-			background: $light-background;
+			@include border-radius(4px);
+			background: $table-background;
 			padding: 0;
 			position: relative;
 			.product-image-container {
+				@include border-radius(4px 4px 0 0);
 				border: 1px solid $base-listing-border-color;
 				padding: 9px;
 				margin-bottom: 13px;
@@ -293,15 +295,27 @@ ul.product_list.grid {
 		@media (min-width: $screen-lg) { // min 1200px
 			&.hovered {
 				.product-container {
-					@include box-shadow(rgba(black, 0.17) 0 0 13px);
+					//@include box-shadow(rgba(black, 0.17) 0 0 13px);
 					position: relative;
 					z-index: 10;
 					.content_price {
 						display: none;
 					}
 					.product-image-container {
-						.content_price {
+					
+						.content_price {							
 							display: block;
+							position: absolute;
+							/*left: 91px;
+							bottom: -1px;
+							width: 100%;
+							padding: 9px 0;
+							top: 27px;
+							height: 50px;
+							-webkit-transform: rotate(45deg);
+							-moz-transform: rotate(45deg);
+							-ms-transform: rotate(45deg);
+							-o-transform: rotate(45deg);*/
 						}
 						.quick-view {
 							display: block;

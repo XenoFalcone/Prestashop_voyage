@@ -1,10 +1,21 @@
+/*
+Theme colors:
+Bleu 1: #0770b3
+Bleu 2: #088CC2
+Turquoise 1: #05A498
+Turquoise 2: #0AD6B2
+Beige: #F3B783
+Gris: #999999
+Noir: #000
+blanc: #fff
+*/
 #search_block_top {
   padding-top: 50px; }
   #search_block_top #searchbox {
     float: left;
     width: 100%; }
   #search_block_top .btn.button-search {
-    background: #333;
+    background: #0770b3;
     display: block;
     position: absolute;
     top: 0;

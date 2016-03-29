@@ -1,6 +1,10 @@
 /*** ESSENTIAL STYLES ***/
 .sf-contener {
+<<<<<<< HEAD
 
+=======
+  clear: both;
+>>>>>>> c2a7b96ff778fbb2d0485e262b9a03e67510590f
   float: left;
   width: 100%; }
 

@@ -2185,7 +2185,7 @@
   ),
   'FrontController' => 
   array (
-    'path' => '',
+    'path' => 'override/classes/controller/FrontController.php',
     'type' => 'class',
     'override' => false,
   ),
@@ -2725,7 +2725,7 @@
   ),
   'Module' => 
   array (
-    'path' => '',
+    'path' => 'override/classes/module/Module.php',
     'type' => 'abstract class',
     'override' => false,
   ),
@@ -3607,7 +3607,7 @@
   ),
   'SmartyCustom' => 
   array (
-    'path' => '',
+    'path' => 'override/classes/SmartyCustom.php',
     'type' => 'class',
     'override' => false,
   ),

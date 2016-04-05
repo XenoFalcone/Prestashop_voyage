@@ -1,0 +1,29 @@
+# ======================
+# Module generated files
+# ======================
+config_*.xml
+
+# ==================
+# OS generated files
+# ==================
+.DS_Store
+.DS_Store?
+._*
+*~
+*#
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# =========
+# IDE files
+# =========
+nbproject
+.~lock.*
+.buildpath
+.idea
+.project
+.settings
+*.sublime-*
+*.codekit

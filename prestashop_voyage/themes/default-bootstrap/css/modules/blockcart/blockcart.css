@@ -1,3 +1,14 @@
+/*
+Theme colors:
+Bleu 1: #0770b3
+Bleu 2: #088CC2
+Turquoise 1: #05A498
+Turquoise 2: #0AD6B2
+Beige: #F3B783
+Gris: #999999
+Noir: #000
+blanc: #fff
+*/
 /*******************************************************************
 					Cart Block Styles
 ********************************************************************/
@@ -115,7 +126,7 @@
 .cart_block dd {
   position: relative; }
   .cart_block dd .cart_block_customizations {
-    border-top: 1px dashed #333; }
+    border-top: 1px dashed #0770b3; }
     .cart_block dd .cart_block_customizations li {
       padding: 10px 20px; }
       .cart_block dd .cart_block_customizations li .deleteCustomizableProduct {
@@ -206,7 +217,7 @@
     border: none;
     background: url(../../../img/cart-shadow.png) repeat-x #3d3d3d; }
   #header .cart_block .cart-buttons {
-    background: url(../../../img/cart-shadow.png) repeat-x #333; }
+    background: url(../../../img/cart-shadow.png) repeat-x #0770b3; }
 #header .block_content {
   margin-bottom: 0; }
 

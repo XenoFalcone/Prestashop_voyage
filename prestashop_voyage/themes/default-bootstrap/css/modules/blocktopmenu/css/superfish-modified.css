@@ -1,10 +1,25 @@
+/*
+Theme colors:
+Bleu 1: #0770b3
+Bleu 2: #088CC2
+Turquoise 1: #05A498
+Turquoise 2: #0AD6B2
+Beige: #F3B783
+Gris: #999999
+Noir: #000
+blanc: #fff
+*/
 /*** ESSENTIAL STYLES ***/
 .sf-contener {
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 =======
   clear: both;
 >>>>>>> c2a7b96ff778fbb2d0485e262b9a03e67510590f
+=======
+  clear: both;
+>>>>>>> nelli
   float: left;
   width: 100%; }
 
@@ -70,8 +85,13 @@
     border-bottom: 3px solid #e9e9e9; }
   .sf-menu > li.sfHover > a,
   .sf-menu > li > a:hover, .sf-menu > li.sfHoverForce > a {
+<<<<<<< HEAD
     background: #088CC2;
     border-bottom-color: #0AD6B2;
+=======
+    background: #0770b3;
+    border-bottom-color: #666666;
+>>>>>>> nelli
     color: #fff; }
 
 .sf-menu li li li a {
@@ -203,7 +223,7 @@ ul.sf-menu li li li.sfHover ul {
       background: #f6f6f6;
       position: relative; }
       .cat-title:hover {
-        background: #333;
+        background: #0770b3;
         border-bottom-color: #666666;
         color: #fff; }
       .cat-title:after {

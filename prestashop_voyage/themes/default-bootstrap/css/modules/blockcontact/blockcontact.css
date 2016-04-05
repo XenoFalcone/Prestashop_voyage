@@ -1,3 +1,14 @@
+/*
+Theme colors:
+Bleu 1: #0770b3
+Bleu 2: #088CC2
+Turquoise 1: #05A498
+Turquoise 2: #0AD6B2
+Beige: #F3B783
+Gris: #999999
+Noir: #000
+blanc: #fff
+*/
 .shop-phone {
   float: left;
   padding: 5px 0 10px;
@@ -18,7 +29,7 @@
 
 #contact-link {
   float: right;
-  border-left: 1px solid #fff; }
+  border-left: 1px solid #515151; }
   @media (max-width: 479px) {
     #contact-link {
       text-align: center; } }

@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-03-29 16:05:11
+<?php /* Smarty version Smarty-3.1.19, created on 2016-04-05 11:13:14
          compiled from "C:\wamp\www\Prestashop_voyage\prestashop_voyage\backoffice\themes\default\template\header.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:657756fa8b97db8920-28565201%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:4674570381aabc68e3-74328676%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '657756fa8b97db8920-28565201',
+  'nocache_hash' => '4674570381aabc68e3-74328676',
   'function' => 
   array (
   ),
@@ -72,9 +72,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_56fa8b9912bc03_55811557',
+  'unifunc' => 'content_570381abac4f38_87917634',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_56fa8b9912bc03_55811557')) {function content_56fa8b9912bc03_55811557($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_570381abac4f38_87917634')) {function content_570381abac4f38_87917634($_smarty_tpl) {?>
 <!DOCTYPE html>
 <!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 lt-ie6 " lang="en"> <![endif]-->
 <!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8 ie7" lang="en"> <![endif]-->

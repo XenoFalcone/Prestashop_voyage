@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-04-05 10:30:11
+<?php /* Smarty version Smarty-3.1.19, created on 2016-04-05 11:18:37
          compiled from "C:\wamp\www\Prestashop_voyage\prestashop_voyage\backoffice\themes\default\template\controllers\products\helpers\form\form.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:1945257037793d84e91-92848675%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:10421570382edcc6547-98337782%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -23,7 +23,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '1945257037793d84e91-92848675',
+  'nocache_hash' => '10421570382edcc6547-98337782',
   'function' => 
   array (
   ),
@@ -79,9 +79,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5703779ae1ed45_46174141',
+  'unifunc' => 'content_570382f3f34cd9_66299498',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_5703779ae1ed45_46174141')) {function content_5703779ae1ed45_46174141($_smarty_tpl) {?><?php if (!is_callable('smarty_function_counter')) include 'C:\\wamp\\www\\Prestashop_voyage\\prestashop_voyage\\tools\\smarty\\plugins\\function.counter.php';
+<?php if ($_valid && !is_callable('content_570382f3f34cd9_66299498')) {function content_570382f3f34cd9_66299498($_smarty_tpl) {?><?php if (!is_callable('smarty_function_counter')) include 'C:\\wamp\\www\\Prestashop_voyage\\prestashop_voyage\\tools\\smarty\\plugins\\function.counter.php';
 ?>
 <?php if (isset($_smarty_tpl->tpl_vars['fields']->value['title'])) {?><h3><?php echo $_smarty_tpl->tpl_vars['fields']->value['title'];?>
 </h3><?php }?>
@@ -558,9 +558,9 @@ $_smarty_tpl->tpl_vars['language']->_loop = true;
 	</script>
 <?php }?>
 <?php }} ?>
-<?php /* Smarty version Smarty-3.1.19, created on 2016-04-05 10:30:16
+<?php /* Smarty version Smarty-3.1.19, created on 2016-04-05 11:18:42
          compiled from "C:\wamp\www\Prestashop_voyage\prestashop_voyage\backoffice\themes\default\template\helpers\form\form_group.tpl" */ ?>
-<?php if ($_valid && !is_callable('content_57037798eed6d0_18113385')) {function content_57037798eed6d0_18113385($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_570382f24572b5_77725916')) {function content_570382f24572b5_77725916($_smarty_tpl) {?>
 
 <?php if (count($_smarty_tpl->tpl_vars['groups']->value)&&isset($_smarty_tpl->tpl_vars['groups']->value)) {?>
 <div class="row">

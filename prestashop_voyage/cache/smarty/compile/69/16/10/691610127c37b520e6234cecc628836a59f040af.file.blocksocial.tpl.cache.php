@@ -1,17 +1,17 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-03-29 16:03:40
+<?php /* Smarty version Smarty-3.1.19, created on 2016-04-05 11:11:58
          compiled from "C:\wamp\www\Prestashop_voyage\prestashop_voyage\themes\default-bootstrap\modules\blocksocial\blocksocial.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:2748956fa8b3c76b166-92351431%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:308125703815e43b671-81350946%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
     '691610127c37b520e6234cecc628836a59f040af' => 
     array (
       0 => 'C:\\wamp\\www\\Prestashop_voyage\\prestashop_voyage\\themes\\default-bootstrap\\modules\\blocksocial\\blocksocial.tpl',
-      1 => 1459259753,
+      1 => 1459265748,
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2748956fa8b3c76b166-92351431',
+  'nocache_hash' => '308125703815e43b671-81350946',
   'function' => 
   array (
   ),
@@ -21,16 +21,15 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'twitter_url' => 0,
     'rss_url' => 0,
     'youtube_url' => 0,
-    'google_plus_url' => 0,
     'pinterest_url' => 0,
     'vimeo_url' => 0,
     'instagram_url' => 0,
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_56fa8b3cb14a43_49803835',
+  'unifunc' => 'content_5703815e777933_45578446',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_56fa8b3cb14a43_49803835')) {function content_56fa8b3cb14a43_49803835($_smarty_tpl) {?>
+<?php if ($_valid && !is_callable('content_5703815e777933_45578446')) {function content_5703815e777933_45578446($_smarty_tpl) {?>
 <section id="social_block" class="pull-right">
 	<ul>
 		<?php if (isset($_smarty_tpl->tpl_vars['facebook_url']->value)&&$_smarty_tpl->tpl_vars['facebook_url']->value!='') {?>
@@ -69,15 +68,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
         		</a>
         	</li>
         <?php }?>
-        <?php if (isset($_smarty_tpl->tpl_vars['google_plus_url']->value)&&$_smarty_tpl->tpl_vars['google_plus_url']->value!='') {?>
-        	<li class="google-plus">
-        		<a class="_blank" href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['google_plus_url']->value, ENT_QUOTES, 'UTF-8', true);?>
-" rel="publisher">
-        			<span><?php echo smartyTranslate(array('s'=>'Google Plus','mod'=>'blocksocial'),$_smarty_tpl);?>
-</span>
-        		</a>
-        	</li>
-        <?php }?>
         <?php if (isset($_smarty_tpl->tpl_vars['pinterest_url']->value)&&$_smarty_tpl->tpl_vars['pinterest_url']->value!='') {?>
         	<li class="pinterest">
         		<a class="_blank" href="<?php echo htmlspecialchars($_smarty_tpl->tpl_vars['pinterest_url']->value, ENT_QUOTES, 'UTF-8', true);?>
@@ -106,8 +96,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
         	</li>
         <?php }?>
 	</ul>
-    <h4><?php echo smartyTranslate(array('s'=>'Follow us','mod'=>'blocksocial'),$_smarty_tpl);?>
-</h4>
 </section>
 <div class="clearfix"></div>
 <?php }} ?>

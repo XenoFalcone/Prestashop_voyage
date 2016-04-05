@@ -1,6 +1,6 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-03-29 17:24:41
+<?php /* Smarty version Smarty-3.1.19, created on 2016-04-05 10:26:42
          compiled from "C:\wamp\www\Dm_prestashop\prestashop_voyage\themes\default-bootstrap\modules\blockcart\blockcart.tpl" */ ?>
-<?php /*%%SmartyHeaderCode:2477256fa9e39ab6437-85199070%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
+<?php /*%%SmartyHeaderCode:24119570376c2cfcaf1-49352056%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
   'file_dependency' => 
   array (
@@ -11,7 +11,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
       2 => 'file',
     ),
   ),
-  'nocache_hash' => '2477256fa9e39ab6437-85199070',
+  'nocache_hash' => '24119570376c2cfcaf1-49352056',
   'function' => 
   array (
   ),
@@ -55,9 +55,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   ),
   'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_56fa9e3d1209a9_02549588',
+  'unifunc' => 'content_570376c6583008_99833388',
 ),false); /*/%%SmartyHeaderCode%%*/?>
-<?php if ($_valid && !is_callable('content_56fa9e3d1209a9_02549588')) {function content_56fa9e3d1209a9_02549588($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include 'C:\\wamp\\www\\Dm_prestashop\\prestashop_voyage\\tools\\smarty\\plugins\\modifier.replace.php';
+<?php if ($_valid && !is_callable('content_570376c6583008_99833388')) {function content_570376c6583008_99833388($_smarty_tpl) {?><?php if (!is_callable('smarty_modifier_replace')) include 'C:\\wamp\\www\\Dm_prestashop\\prestashop_voyage\\tools\\smarty\\plugins\\modifier.replace.php';
 if (!is_callable('smarty_function_counter')) include 'C:\\wamp\\www\\Dm_prestashop\\prestashop_voyage\\tools\\smarty\\plugins\\function.counter.php';
 ?>
 <!-- MODULE Block cart -->

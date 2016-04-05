@@ -1,5 +1,7 @@
 #search_block_top {
-  padding-top: 50px; }
+  padding-top: 50px;
+  margin-left: 33%;
+}
   #search_block_top #searchbox {
     float: left;
     width: 100%; }

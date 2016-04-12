@@ -13,12 +13,159 @@
 	<atom:link href="http://www.prestashop.com/blog/fr/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.prestashop.com/blog/fr</link>
 	<description></description>
-	<lastBuildDate>Mon, 04 Apr 2016 14:08:51 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Apr 2016 08:30:35 +0000</lastBuildDate>
 	<language>fr-FR</language>
 		<sy:updatePeriod>hourly</sy:updatePeriod>
 		<sy:updateFrequency>1</sy:updateFrequency>
 	<generator>http://wordpress.org/?v=3.8.1</generator>
 	<item>
+		<title>Réussir son projet eCommerce : La création de votre site n&#8217;est qu&#8217;une première étape</title>
+		<link>https://www.prestashop.com/blog/fr/reussir-projet-ecommerce-creation-site-nest-quune-premiere-etape/</link>
+		<comments>https://www.prestashop.com/blog/fr/reussir-projet-ecommerce-creation-site-nest-quune-premiere-etape/#comments</comments>
+		<pubDate>Mon, 11 Apr 2016 08:30:35 +0000</pubDate>
+		<dc:creator><![CDATA[Les amis de Preston]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19918</guid>
+		<description><![CDATA[<p>Aujourd’hui nous accueillons Charlotte Marchand de notre agence partenaire 202 ecommerce, qui va vous donner des indices pour appliquer la stratégie entrepreneurial Lean Start Up à votre site marchand. Vous avez un projet eCommerce et avez décidé de vous lancer, bravo. La création du site eCommerce Vous êtes actuellement à la recherche du partenaire/de l’agence [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/reussir-projet-ecommerce-creation-site-nest-quune-premiere-etape/">Réussir son projet eCommerce : La création de votre site n&rsquo;est qu&rsquo;une première étape</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p><em>Aujourd’hui nous accueillons Charlotte Marchand de notre agence partenaire 202 ecommerce, qui va vous donner des indices pour appliquer la stratégie entrepreneurial Lean Start Up à votre site marchand.</em></p>
+<p>Vous avez un projet eCommerce et avez décidé de vous lancer, bravo.<br />
+<span id="more-19918"></span></p>
+<h2 style="color:#f59108">La création du site eCommerce</h2>
+<p>Vous êtes actuellement à la recherche du partenaire/de l’agence la plus à même d’écouter, de livrer le site dans les délais impartis et d’accompagner votre développement. </p>
+<p>A la question du budget qu’il faut allouer à la création de sa boutique en ligne, les réponses varient. </p>
+<p>Si vous disposez d’un petit budget, PrestaShop inclut nativement les fonctionnalités nécessaires à la vente en ligne et propose de nombreux thèmes graphiques et modules complémentaires prêts à l’achat. En d’autres termes, aussi unique soit votre projet, si vos besoins techniques restent standards, inutile de réinventer la roue ! </p>
+<p>Si vous disposez d’un budget plus important, il est sans doute intéressant d’envisager la création de votre propre thème graphique. Celui-ci doit être responsive sur tous les écrans et pouvoir survivre aux effets de mode, éphémères par définition, sauf si vous avez budgeté de mettre à jour le thème chaque année.</p>
+<p>D’autre part, si pour une raison ou pour une autre (business model, univers de marque, connexion ERP/ API&#8230;), vous êtes amenés à revoir le fonctionnement natif de PrestaShop, le CMS n’en reste pas moins une excellente base de travail mais ces développements spécifiques pourraient bien faire exploser les devis. Pour la réalisation de modules sur mesure, associés à un thème personnalisé, comptez un budget plus élévé.</p>
+<p>Le plus important est donc d&rsquo;adapter le budget entre besoin de flexibilité, spécificité ou maîtrise de votre boutique.</p>
+<h2 style="color:#f59108">La partie vient seulement de commencer </h2>
+<p>Chez 202 ecommerce, nous rencontrons des dizaines de porteurs de projets chaque année. S’il est bien un constat, c’est que la réussite d’un projet n’est pas corrélée au budget investi dans la création du site. Au lieu de cela, les clés du succès résideraient davantage dans la stratégie de notoriété et d’acquisition de trafic et le pilotage des critères de performance par l’entrepreneur.</p>
+<p>Il est donc impératif de prévoir un budget marketing au lancement et tout au long de la vie de votre eCommerce. Dès la création de votre boutique en ligne, votre obsession doit être :  trafic, trafic, trafic et conversion. </p>
+<p>Pour cela, vous pourrez envisager et tester la meilleure proportion pour votre business entre référencement payant et référencement naturel(SEO). A noter qu’il est admis que l’indexation de toutes les pages de votre site par les moteurs de recherche n’établit votre SEO qu’au bout de 2 mois. </p>
+<p>Certaines actions payantes constituent donc d’excellents moyens de palier le manque initial de référencement naturel. Elles peuvent être appelés <strong>les actions d’entrée dans le tunnel d’achat</strong>. C’est le cas d’Adwords (achat de mots-clés), l’acquisition de base prospects qualifiées (attention à la qualité de la base et la pertinence de votre emailing!), Elles sont donc à mettre en place en amont et contribuent à générer du trafic.</p>
+<p>Les actions qui peuvent leur succéder sont des <strong>actions de retour dans le tunnel d’achat</strong>. En d’autres termes, un utilisateur a visité votre site sans passer commande, et vous cherchez à le récupérer : le retargeting / remarketing, &#8211; s’il a créé un compte &#8211; l’envoi d’un code promotionnel, sont autant de pratiques qui aident à déclencher une première conversion. </p>
+<p>Enfin, <strong>les actions de fidélisation</strong> doivent vous permettre de faire revenir vos clients pour leur deuxième conversion, voire même développer votre communauté d’ambassadeurs. Ils se chargeront de parler de vous en bien à votre place : l’envoi d’une newsletter, la mise en place de parrainage, une invitation à vos événements exclusifs etc.</p>
+<p>Parmi les projets que nous voyons évoluer avec succès, le budget marketing est généralement supérieur au budget alloué à la création du site. Même pour un eCommerce de niche, même pour un eCommerce dans l’univers du luxe, même pour un projet dont l’audience principale est captable sur Facebook, il faudra sortir le portefeuille. En d’autres termes, mener une stratégie de croissance avant, à terme, de passer sur une stratégie de rentabilité. </p>
+<p>Par conséquent, la question qu’il convient de se poser pour limiter les dépenses liées à la création de la boutique et afin de maximiser le budget marketing est la suivante : Quelle est la priorité ? Quelles fonctionnalités sont inhérentes à votre projet et quelles options seront des évolutions en phase ultérieure ? </p>
+<h2 style="color:#f59108">Devenez agile</h2>
+<p>Le concept que nous préconisons est plus connu sous le nom de Produit Minimum Viable (PMV ou MVP en anglais), axe central de la stratégie entrepreneurial Lean Start Up. Cette méthode de travail consiste à lancer des boucles de projet itératives. Commencez par lancer une version à minima de votre activité, sans céder à la tentation de toutes les fonctionnalités magnifiques et peut-être superflues que vous avez imaginées. Validez votre concept auprès de votre marché, écoutez-le puis adaptez-vous. Vous allez ainsi travailler en cycles courts et itératifs : tester, apprendre, évoluer … et recommencer à l’infini. Vous pouvez par exemple entrer en contact avec vos premiers clients et les sonder sur ce qu’ils s’attendaient à trouver sur le site, la raison initiale de leur venue et leur expérience au global. Les visiteurs qui n’ont pas converti seront également une source d’informations pertinentes et il ne faut pas hésiter à leur demander la faveur de partager leur points de vue. Abordez ces prises de contact sans préjugés ni idées reçues et écoutez objectivement. Des individus étrangers à votre entourage et totalement neutres sont souvent de très bonne source d’améliorations. Vous pourrez décider d’en mettre certaines en pratique dans votre v2, de surveiller vos indicateurs clés de performance et de valider ou non ces évolutions dans votre v3 etc.</p>
+<p>Cette méthode permet non seulement de vous lancer plus vite mais surtout de coller aux attentes de vos utilisateurs. En allant chercher leur feedback, il est probable que vous découvriez des besoins, attentes et désirs non identifiés. Alors mettez de coté la fonctionnalité ultra design que vous aviez en tête et répondez à vos utilisateurs. Ne soyez pas cet entrepreneur qui avait une idée géniale mais dont le projet «&nbsp;n’a pas  rencontré son marché&nbsp;».<br />
+Naturellement, PrestaShop est idéal pour la mise en place de PMV. La technologie est légère à mettre en oeuvre, évolutive et dispose de très nombreuses extensions fonctionnelles (via les modules Addons.) </p>
+<h2 style="color:#f59108">L’emplacement, l’emplacement, l’emplacement</h2>
+<p>Si les professionnels des baux commerciaux ont une obsession (l’emplacement !). Une magnifique boutique au fond d’une impasse ne vous rapportera pas d&rsquo;argent et se limitera dans le meilleur des cas à un succès d&rsquo;estime.</p>
+<p>Le même raisonnement prime sur Internet : vous devez impérativement attirer les visiteurs pour rentrer dans la partie. Une boutique en ligne, même avec de super fonctionnalités / design, ne génère pas de trafic “naturellement”. Au lieu de fonctionnalités avancées, assurez-vous de répondre à l’état de l’art en matière de parcours client et expérience utilisateur, et mettez l’accent sur une exposition pertinente. Ensuite, plus les ventes décollent, plus vous aurez le loisir d’améliorer votre boutique. </p>
+<p><img src="https://www.prestashop.com/blog/fr/files/2016/04/202-ecommerce.gif" alt="202-ecommerce" width="254" height="38" class="aligncenter size-full wp-image-21469" /></p>
+<p>Nous contacter :<br />
+<a href="http://www.202-ecommerce.com/" target="_blank">http://www.202-ecommerce.com/</a><br />
+01 83 62 44 74</p>
+<p>En savoir plus sur Lean Start-Up :<br />
+<a href="https://fr.wikipedia.org/wiki/Lean_Startup" target="_blank">https://fr.wikipedia.org/wiki/Lean_Startup</a><br />
+<a href="http://www.amazon.fr/Lean-start-up-Eric-Ries/dp/2744065080" target="_blank">http://www.amazon.fr/Lean-start-up-Eric-Ries/dp/2744065080</a><br />
+<a href="http://www.amazon.fr/Rework-Fried-Heinemeier-Hansson-Hardcover/dp/B00M0DYX5I/" target="_blank">http://www.amazon.fr/Rework-Fried-Heinemeier-Hansson-Hardcover/dp/B00M0DYX5I/</a></p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/reussir-projet-ecommerce-creation-site-nest-quune-premiere-etape/">Réussir son projet eCommerce : La création de votre site n&rsquo;est qu&rsquo;une première étape</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/reussir-projet-ecommerce-creation-site-nest-quune-premiere-etape/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Boostez votre trafic avec Google Shopping</title>
+		<link>https://www.prestashop.com/blog/fr/boostez-trafic-google-shopping/</link>
+		<comments>https://www.prestashop.com/blog/fr/boostez-trafic-google-shopping/#comments</comments>
+		<pubDate>Thu, 07 Apr 2016 16:23:33 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19913</guid>
+		<description><![CDATA[<p>Google Shopping est un service payant proposé par Google qui permet aux e-commerçants de lister leurs produits en utilisant un modèle de coût par clic. À l&#8217;instar d&#8217;autres programmes publicitaires Google, plus l&#8217;offre est élevée, plus la probabilité de voir apparaître l&#8217;élément dans les premiers résultats de recherche est grande. La pertinence des produits et [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/boostez-trafic-google-shopping/">Boostez votre trafic avec Google Shopping</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Google Shopping est un service payant proposé par Google qui permet aux e-commerçants de lister leurs produits en utilisant un <strong>modèle de coût par clic</strong>. À l&rsquo;instar d&rsquo;autres programmes publicitaires Google, plus l&rsquo;offre est élevée, plus la probabilité de voir apparaître l&rsquo;élément dans les premiers résultats de recherche est grande. La pertinence des produits et l&rsquo;algorithme spécifique de Google Shopping entrent également en jeu.<br />
+<span id="more-19913"></span><br />
+La popularité de la plateforme a augmenté de manière significative ces dernières années. Selon Adobe, rien qu&rsquo;en 2014, Google Shopping a connu une <strong>croissance de 47 %</strong> au niveau des dépenses publicitaires. Cette hausse devrait se poursuivre et même s&rsquo;intensifier au cours des années à venir. </p>
+<p>Le caractère visuel du service est particulièrement adapté aux e-commerçants souhaitant afficher leurs produits. Et le mobile n&rsquo;est pas en reste : grâce à Google Shopping, les e-commerçants peuvent proposer à leurs clients l&rsquo;expérience d&rsquo;achat intégrée dont ils rêvent.</p>
+<p>Dans la vidéo d&rsquo;aujourd&rsquo;hui, les experts de Twenga vous dévoilent tous les secrets pour concevoir une stratégie d&rsquo;acquisition efficace, afin de tirer profit des nombreuses fonctionnalités de Google Shopping adaptées aux e-commerçants. </p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/ThiegTWCTaI?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/watch?v=wdV0AJLYH_s&#038;list=PLyZYn1MMU7-yrGSOJ47U3jAVcQ72y-dUS&#038;index=1" target="_blank"><i class="fa fa-youtube-play"></i> Voir plus de vidéos</a></div>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/boostez-trafic-google-shopping/">Boostez votre trafic avec Google Shopping</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/boostez-trafic-google-shopping/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Galaxy Kayaks, spécialiste Européen de la vente de kayaks de pêche avec PrestaShop</title>
+		<link>https://www.prestashop.com/blog/fr/galaxy-kayaks-specialiste-europeen-vente-kayaks-peche-prestashop/</link>
+		<comments>https://www.prestashop.com/blog/fr/galaxy-kayaks-specialiste-europeen-vente-kayaks-peche-prestashop/#comments</comments>
+		<pubDate>Thu, 07 Apr 2016 08:52:41 +0000</pubDate>
+		<dc:creator><![CDATA[Julie Liu]]></dc:creator>
+				<category><![CDATA[Success Story]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19906</guid>
+		<description><![CDATA[<p>La pêche en kayak est une sous-catégorie croissante d&#8217;un des passe-temps les plus populaires en Europe : la pêche. Cette activité traditionnelle n’est pas seulement une source de nourriture, c’est aussi un vrai sport très apprécié. Au Royaume-Uni, il y a plus de pêcheurs que de footballeurs du dimanche ! En Espagne, plus d&#8217;un million [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/galaxy-kayaks-specialiste-europeen-vente-kayaks-peche-prestashop/">Galaxy Kayaks, spécialiste Européen de la vente de kayaks de pêche avec PrestaShop</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>La pêche en kayak est une sous-catégorie croissante d&rsquo;un des passe-temps les plus populaires en Europe : la pêche. Cette activité traditionnelle n’est pas seulement une source de nourriture, c’est aussi un vrai sport très apprécié. Au Royaume-Uni, il y a plus de pêcheurs que de footballeurs du dimanche ! En Espagne, plus d&rsquo;un million de personnes détiennent un permis de pêche. Dans beaucoup de pays, la pêche en kayak est en plein essor. Et c&rsquo;est ainsi que l&rsquo;histoire de <a href="http://www.es.galaxykayaks.eu/en/" target="_blank">Galaxy Kayaks</a> commence.<br />
+<span id="more-19906"></span></p>
+<h2 style="color:#2c347f">Le lancement de la boutique en ligne</h2>
+<p>En 2012, Stephen Sweeney décide de changer de vie. Un jour, il croise par hasard la route d&rsquo;un ami, accompagné du propriétaire de <a href="http://www.es.galaxykayaks.eu/en/" target="_blank">Galaxy Kayaks</a> (entreprise britannique fondée en 2007). Inspiré par cette rencontre, il décide de fonder la branche espagnole de Galaxy Kayaks. Ce partenariat se traduira plus tard par la création de Galaxy Kayaks EU quelques années plus tard. </p>
+<p>Galaxy Kayaks a été fondée alors que la pêche en kayak commençait tout juste à devenir un sport populaire. Cependant, il était clair que la plupart des kayaks de pêche disponibles sur le marché étaient soit de mauvaise qualité, soit trop chers. En général, ils étaient vendus par des commerces de détail spécialisés qui appliquaient des tarifs plutôt élevés : un kayak coûtait en moyenne plus de 1 000 €. Il existait donc clairement une place à se faire dans le marché des kayaks de pêche abordables, vendus directement au consommateur. </p>
+<p>Au cours de ses recherches, Stephen trouve la solution parfaite : une boutique en ligne pour vendre des <a href="http://www.es.galaxykayaks.eu/en/6-fishing-kayaks" target="_blank">kayaks de pêche</a> de qualité, d&rsquo;une marque dont c’est la spécialité et le tout à des prix abordables. Le site prend forme avec PrestaShop et devient ensuite <a href="http://www.es.galaxykayaks.eu/en/" target="_blank">www.galaxykayaks.eu</a>. </p>
+<p>Galaxy Kayaks voulait déroger à la règle en fabricant, important et vendant des kayaks de qualité à moins de 500 € livrés directement chez le client. Stephen souhaitait également développer la présence de la marque à travers l&rsquo;Europe pour devenir le leader du marché européen. « Ce projet est né de ma passion pour la nature et la pêche, ainsi que de mon envie de trouver une activité qui correspondrait à mon style de vie », explique Stephen. </p>
+<h2 style="color:#2c347f">Surmonter les barrières culturelles dans l&rsquo;e-commerce</h2>
+<p>Le lancement d&rsquo;une entreprise internationale n&rsquo;est pas une mince affaire. La priorité principale est de créer un site Web fonctionnel pour vendre les produits. Galaxy Kayaks a choisi un modèle doté de sous-domaines pour chaque pays, permettant ainsi à l&rsquo;entreprise de travailler en petites équipes flexibles. Celles-ci peuvent alors se concentrer sur leur propre boutique en ligne tout en profitant du référencement lié au partage d&rsquo;un domaine commun.</p>
+<p>« J’ai toujours eu la chance de gérer mes propres entreprises. La plus récente était dans le domaine de la restauration, où j&rsquo;ai dirigé une chaîne de 15 restaurants. Avec mon expérience des franchises, j&rsquo;ai vu dans le marché du kayak l&rsquo;opportunité de mettre en place un modèle économique similaire à l&rsquo;international (et en ligne) », explique Stephen. </p>
+<p>Avant tout, il fallait commencer par choisir une plateforme e-commerce compatible avec ce type de projet. Stephen avait besoin d&rsquo;une plateforme offrant une grande flexibilité et qui, en même temps, ne demande pas un investissement initial conséquent. La communauté PrestaShop représentait également un atout de taille, car elle reflétait l&rsquo;adaptabilité de la plateforme. En outre, le nombre infini de modules disponibles permettait à l&rsquo;entreprise de créer une plateforme correspondant à ses activités. Après de nombreuses analyses et recherches, Galaxy Kayaks EU a choisi PrestaShop. </p>
+<p>Le modèle international est étendu à toute l&rsquo;entreprise, en incluant les diverses stratégies marketing. Les principales différences dans les stratégies reposent sur la culture et la société, c&rsquo;est pourquoi les promotions ne sont pas les mêmes partout en Europe. Par exemple, en Espagne, Galaxy Kayaks EU réalise plus de ventes le jour des Rois Mages (le 6 janvier) qu&rsquo;à Noël. En plus des promotions, les équipes de chaque pays contrôlent entièrement leur propre marché, ce qui facilite la gestion des produits et des stocks. Ce modèle permet également d&rsquo;abattre les barrières évidentes en matière de langue et de culture.</p>
+<h2 style="color:#2c347f">L&rsquo;engagement de la communauté</h2>
+<p>Si la qualité des produits de Galaxy Kayaks EU a contribué à la croissance de l&rsquo;entreprise, c&rsquo;est la proximité avec les clients, en ligne ou hors ligne, qui est le facteur clé de cet essor. En effet, en travaillant en petites équipes réparties sur chaque marché national, il est plus facile de créer des liens forts avec les clients. L&rsquo;essor des réseaux sociaux a facilité ces relations, mais le moteur principal reste la capacité de l&rsquo;entreprise à s&rsquo;impliquer auprès de sa communauté par la création de contenu.</p>
+<p>Les pêcheurs adorent photographier et filmer leurs prises. Ils sont également passionnés par ce qu&rsquo;ils font et forment une communauté qui aime partager des contenus et en discuter. Chaque pays a ses propres préférences en matière de réseaux sociaux. En France, les pêcheurs se retrouvent sur des forums dédiés, tandis qu&rsquo;en Espagne, ils privilégient Facebook. </p>
+<p>D&rsquo;un point de vue commercial, <a href="http://addons.prestashop.com/fr/4731-blog-professionnel.html" target="_blank">le blog disponible sur PrestaShop</a> permet de diriger un trafic important vers le site grâce à des sujets spécifiques partagés sur les réseaux sociaux. S&rsquo;ils sont bien écrits et en relation avec les promotions en cours, ces articles peuvent réellement booster le chiffre d&rsquo;affaires. </p>
+<p>De plus, certains clients s&rsquo;impliquent réellement dans l&rsquo;entreprise. Les avis client de pêcheurs en kayak expérimentés aident les experts de Galaxy Kayaks EU à développer les prochains modèles. L&rsquo;entreprise a su développer une base de clients engagés et passionnés grâce à sa disponibilité et son ouverture aux retours client.</p>
+<p>L’entreprise a également tissé des liens plus étroits avec la communauté de la pêche en kayak grâce à une présence physique, en devenant le sponsor officiel d&rsquo;événements majeurs locaux et internationaux, tels que le championnat national espagnol de pêche en kayak. Ainsi, les clients peuvent mettre un visage sur les noms, ce qui favorise l&rsquo;établissement de relations étroites et fortes, malgré l&rsquo;éloignement caractéristique des entreprises en ligne.</p>
+<h2 style="color:#2c347f">Le succès de l&rsquo;e-commerce</h2>
+<p>Grâce à ces stratégies tournées vers le développement de la communauté, le nombre de fans de Galaxy Kayaks EU sur les réseaux sociaux a augmenté de 800 % en un an. Le trafic journalier sur le site a connu une hausse de 500 % et les ventes ne font qu&rsquo;augmenter, en grande partie grâce à l&rsquo;engagement croissant de la communauté. Cependant, le succès ne s&rsquo;arrête pas là. </p>
+<p>Depuis son lancement, la marque s&rsquo;est fortement développée et est actuellement présente en Espagne, en France, au Portugal, en Italie et en Scandinavie. Galaxy Kayaks EU a connu une croissance exceptionnelle et son chiffre d&rsquo;affaires dépasse maintenant les 2 millions d&rsquo;euros. Lorsqu&rsquo;on l&rsquo;interroge sur son succès, Stephen répond : « Si vous aimez ce que vous faites, votre passion vous permettra de repousser les limites et de faire de votre entreprise un succès. »</p>
+<p><a href="https://www.prestashop.com/download/pdf/14-Galaxy-Kayaks-EU.pdf" target="_blank">Get the downloadable version of this story!</a></p>
+<hr style="width:20%;text-align:left">
+<p>Vous voulez créer votre boutique en ligne ? Lancez-vous avec <a href="http://www.prestashop.com/">PrestaShop</a> ! Vous voulez d’autres histoires similaires ? Découvrez tous nos exemples de <a href="https://www.prestashop.com/blog/fr/category/success-story/">success stories</a>. </p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/galaxy-kayaks-specialiste-europeen-vente-kayaks-peche-prestashop/">Galaxy Kayaks, spécialiste Européen de la vente de kayaks de pêche avec PrestaShop</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/galaxy-kayaks-specialiste-europeen-vente-kayaks-peche-prestashop/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>5 astuces pour réussir votre campagne par e-mail</title>
+		<link>https://www.prestashop.com/blog/fr/5-astuces-reussir-campagne-e-mail/</link>
+		<comments>https://www.prestashop.com/blog/fr/5-astuces-reussir-campagne-e-mail/#comments</comments>
+		<pubDate>Tue, 05 Apr 2016 08:51:18 +0000</pubDate>
+		<dc:creator><![CDATA[Kate Robinson]]></dc:creator>
+				<category><![CDATA[Conseils E-commerce]]></category>
+
+		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19865</guid>
+		<description><![CDATA[<p>Saviez-vous que 61 % des consommateurs souhaitent recevoir des e-mails promotionnels chaque semaine ? Si vous pensez que les e-mails sont dépassés, il est temps de changer d&#8217;opinion. En effet, 89 % des responsables marketing comptent toujours sur les e-mails pour générer du business. En tant que commerçant, vous pouvez utiliser cette technique peu coûteuse [...]</p>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/5-astuces-reussir-campagne-e-mail/">5 astuces pour réussir votre campagne par e-mail</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Saviez-vous que 61 % des consommateurs souhaitent recevoir des e-mails promotionnels chaque semaine ?<br />
+Si vous pensez que les e-mails sont dépassés, il est temps de changer d&rsquo;opinion. En effet, 89 % des responsables marketing comptent toujours sur les e-mails pour générer du business. En tant que commerçant, vous pouvez utiliser cette technique peu coûteuse pour générer des leads, booster la conversion et fidéliser les clients. Comment ? Dans la vidéo d&rsquo;aujourd&rsquo;hui, les experts en marketing par e-mail de SendinBlue vous expliquent comment réaliser une campagne par e-mail en cinq étapes clés : </p>
+<p><span id="more-19865"></span></p>
+<div class="g-ytsubscribe col-centered text-center" data-channelid="UCqDSbqSbkboMBARlYrhNa7g" data-layout="full" data-count="default"></div>
+<ul style="padding-left: 30px">
+<li>optimiser la phase de collecte pour créer une base d&rsquo;abonnés de qualité ;</li>
+<li>planifier et créer du contenu pertinent ;</li>
+<li>développer une page de destination dédiée ;</li>
+<li>analyser les résultats ;</li>
+<li>choisir le bon outil. </li>
+</ul>
+<p><iframe width="700" height="394" src="https://www.youtube.com/embed/EeiQQPqNKYA?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
+<div class="text-center"><a class="btn" style="background-color: #cd201f;border: 1px solid #b31217;border-bottom: 3px solid #b31217;margin: 20px 0 0;color: #fff" href="https://www.youtube.com/user/prestashop/featured?utm_source=blog&amp;utm_medium=cta&amp;utm_campaign=Youtube-launch&amp;utm_content=sendinblue" target="_blank"><i class="fa fa-youtube-play"></i>  Voir plus de vidéos</a></div>
+<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/5-astuces-reussir-campagne-e-mail/">5 astuces pour réussir votre campagne par e-mail</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://www.prestashop.com/blog/fr/5-astuces-reussir-campagne-e-mail/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
 		<title>4 astuces pour réduire ses paniers abandonnés</title>
 		<link>https://www.prestashop.com/blog/fr/4-astuces-reduire-ses-paniers-abandonnes/</link>
 		<comments>https://www.prestashop.com/blog/fr/4-astuces-reduire-ses-paniers-abandonnes/#comments</comments>
@@ -250,235 +397,6 @@ Alors tenez-vous prêts et profitez-en au plus vite !</p>
 <p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/marketplace-americaine-jet-debarque-addons/">La marketplace américaine Jet débarque sur Addons !</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
 ]]></content:encoded>
 			<wfw:commentRss>https://www.prestashop.com/blog/fr/marketplace-americaine-jet-debarque-addons/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>Comment mettre en place une stratégie de marketing vidéo pour votre site e-commerce</title>
-		<link>https://www.prestashop.com/blog/fr/comment-mettre-en-place-strategie-marketing-video-site-e-commerce/</link>
-		<comments>https://www.prestashop.com/blog/fr/comment-mettre-en-place-strategie-marketing-video-site-e-commerce/#comments</comments>
-		<pubDate>Thu, 17 Mar 2016 11:55:40 +0000</pubDate>
-		<dc:creator><![CDATA[Les amis de Preston]]></dc:creator>
-				<category><![CDATA[Conseils E-commerce]]></category>
-
-		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19797</guid>
-		<description><![CDATA[<p>Si une image vaut mille mots, une vidéo produit vaut bien plus en matière d&#8217;engagement client et de conversions. En effet, 96 % des consommateurs apprécient les contenus vidéo lorsqu&#8217;ils effectuent des achats en ligne. Les e-commerçants affichant des vidéos produit sur leurs sites observent ainsi une augmentation des taux de conversion jusqu&#8217;à 85 %. [...]</p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/comment-mettre-en-place-strategie-marketing-video-site-e-commerce/">Comment mettre en place une stratégie de marketing vidéo pour votre site e-commerce</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>Si une image vaut mille mots, une vidéo produit vaut bien plus en matière d&rsquo;engagement client et de conversions. En effet, <a href="http://www.reelseo.com/consumers-purchase-video/" target="_blank">96 % des consommateurs</a> apprécient les contenus vidéo lorsqu&rsquo;ils effectuent des achats en ligne. Les e-commerçants affichant des vidéos produit sur leurs sites observent ainsi une augmentation des taux de conversion <a href="http://blog.crazyegg.com/2015/03/05/videos-boost-conversion-rates/" target="_blank">jusqu&rsquo;à 85 %</a>. Parmi les autres <a href="http://blog.goodvid.io/5-benefits-of-having-product-videos-on-ecommerce-site" target="_blank">avantages des vidéos pour l&rsquo;e-commerce</a> figurent une durée de session prolongée, un plus grand nombre de pages visitées, des taux de conversion plus élevés et un trafic accru. </p>
-<p>Passons en revue les points à prendre en considération pour le développement d&rsquo;une stratégie de marketing vidéo pour votre entreprise.<br />
-<span id="more-19797"></span></p>
-<h2 style="color:#474474">Définissez une stratégie de marketing vidéo adaptée à vos besoins</h2>
-<p>Avant de vous intéresser à l&rsquo;aspect créatif du marketing vidéo, trouvez d&rsquo;abord la <a href="http://blog.goodvid.io/5-steps-to-create-a-video-strategy-for-your-online-store/" target="_blank">stratégie vidéo</a> qu&rsquo;il vous faut. Quels sont les objectifs que vous souhaitez atteindre en proposant des vidéos sur votre site ? Quelles sont les ressources dont vous disposez en matière de temps, de budget et de compétences ? Le rôle attendu des vidéos sur votre site et l&rsquo;investissement que vous êtes prêt à consentir dans le marketing vidéo guideront votre stratégie. Voici les trois principales approches qui s&rsquo;offrent à vous :</p>
-<h4 style="color:#474474">1. Réalisez vos propres vidéos</h4>
-<p>La création de vos propres vidéos est la stratégie qui exige le plus de ressources, mais c&rsquo;est aussi celle qui permet le plus à votre marque de se démarquer. C&rsquo;est une stratégie adaptée si vous commercialisez votre propre marque de produits, car vous pouvez ainsi promouvoir l&rsquo;enseigne, les valeurs et la vision de votre entreprise.</p>
-<h4 style="color:#474474">2. Utilisez les vidéos des marques, des experts et des utilisateurss</h4>
-<p>Tous les e-commerçants ne souhaitent pas créer leurs propres vidéos, ce qui n&rsquo;est pas un problème. Si vous disposez de peu de temps et de ressources ou n&rsquo;êtes pas à l&rsquo;aise devant une caméra, vous pouvez tirer profit des vidéos existantes concernant les produits et les marques que vous commercialisez. De nombreuses <a href="https://goodvid.io/video-gallery" target="_blank">vidéos réalisées par des marques, des experts et des utilisateurs</a> sont disponibles sur YouTube ainsi que sur d&rsquo;autres plateformes de partage de vidéos et peuvent être partagées gratuitement sur les sites e-commerce. C&rsquo;est une excellente manière d&rsquo;évaluer la réaction des clients aux vidéos sur votre site sans investissement majeur dans la production de vidéos, en particulier si vous êtes novice en la matière.</p>
-<h4 style="color:#474474">3. Combinez vos propres vidéos avec une sélection d&rsquo;autres vidéos</h4>
-<p>Enfin, vous pouvez également tirer le meilleur parti des deux approches précédentes et proposer à vos clients un mélange de vos propres vidéos et de vidéos sélectionnées à partir d&rsquo;autres sources. C&rsquo;est un excellent moyen de diversifier vos contenus vidéo, de maintenir l&rsquo;engagement des acheteurs et de mettre en avant votre expertise produit. </p>
-<h2 style="color:#474474">Sélectionnez des vidéos appropriées</h2>
-<p>Une fois que vous avez défini la stratégie vidéo adaptée aux besoins de votre entreprise, réfléchissez aux contenus vidéo que vos clients apprécieront le plus. Les vidéos doivent susciter l&rsquo;intérêt des acheteurs potentiels pour les produits et les inciter à cliquer sur le bouton « Ajouter au panier ». Voici les vidéos les plus adaptées à l&rsquo;e-commerce :</p>
-<ul style="padding-left: 30px">
-<li><strong>Vidéos de présentation des produits :</strong> elles permettent aux acheteurs de connaître les caractéristiques et les avantages principaux du produit et de se rendre compte de ses performances. Ces vidéos forgent les attentes client sur le produit avant l&rsquo;achat et aident à éviter les retours produit.</li>
-<li><strong>Tutoriels :</strong> les vidéos didactiques montrant <a href="http://blog.goodvid.io/how-online-retailers-can-leverage-how-to-video-content/" target="_blank">l&rsquo;assemblage, l&rsquo;utilisation et l&rsquo;entretien des produits</a> sont particulièrement utiles pour les produits complexes tels que les appareils électroniques grand public, l&rsquo;électroménager, les produits cosmétiques et les produits pour bébés.</li>
-<li><strong>Vidéos de déballage :</strong> avec une vidéo montrant le packaging du produit et son déballage, les clients peuvent mieux visualiser leurs achats. Ces vidéos réduisent l&rsquo;anxiété des consommateurs et suscitent leur intérêt pour le produit.</li>
-</ul>
-<p>Lorsque vous sélectionnez des vidéos pour votre site, réfléchissez aux questions que les acheteurs potentiels sont susceptibles de se poser à propos de vos produits et répondez-y par une vidéo. Comme les vidéos jouent un rôle de vendeur virtuel dans votre boutique en ligne, elles doivent rassurer les clients sur leurs achats. </p>
-<h2 style="color:#474474">Meilleures pratiques pour la mise en place de vidéos produit sur un site e-commerce</h2>
-<p>Des vidéos appropriées peuvent améliorer considérablement l&rsquo;engagement client et les taux de conversion des sites e-commerce. Voici quelques conseils pratiques pour les e-commerçants qui souhaitent développer une stratégie de marketing vidéo :</p>
-<ol>
-<li><strong>Trouvez l&rsquo;inspiration.</strong> Cherchez sur YouTube des vidéos concernant les produits et les marques que vous commercialisez ou des produits de la même catégorie. Cherchez des vidéos réalisées par les marques, les utilisateurs, les experts et les commerçants. Notez les informations fournies, le style et la durée de ces vidéos, ainsi que les incitations à l&rsquo;action. Inspirez-vous de ces données pour la réalisation de vos propres vidéos ou pour la sélection des vidéos à afficher sur votre site.</li>
-<li><strong>Commencez par ajouter des vidéos pour vos produits les plus rentables.</strong> Pour vos premiers pas dans le marketing vidéo, commencez par vos meilleures ventes ou pages produit les plus visitées. Vous pourrez ainsi collecter rapidement des données sur les effets des vidéos sur l&rsquo;engagement client et les taux de conversion.</li>
-<li><strong>Placez les vidéos à des endroits stratégiques pour la conversion.</strong> Si vous souhaitez évaluer l&rsquo;influence des vidéos sur vos taux de conversion avec le bouton « Ajouter au panier », ajoutez les vidéos directement aux pages produit et non aux pages de catégories, afin de maximiser leur impact sur l&rsquo;intention d&rsquo;achat. </li>
-<li><strong>Optimisez la visibilité des vidéos.</strong> Placez les vidéos à côté des photos et des descriptions produit. Cela permet de capter immédiatement l&rsquo;attention des acheteurs et de susciter leur intérêt pour le contenu. Essayez si possible de placer les vidéos au-dessus de la ligne de flottaison et non en bas de page, où elles ne seraient pas assez visibles.</li>
-<li><strong>Ajoutez plusieurs vidéos aux pages produit.</strong> Vos pages peuvent comporter chacune plusieurs photos produit, alors pourquoi pas plusieurs vidéos ? Associez différents types de vidéos pour maximiser l&rsquo;engagement client. Combinez vos propres vidéos avec des vidéos réalisées par des utilisateurs, des témoignages client et des présentations de produits afin d&rsquo;offrir une expérience authentique à vos clients. Testez différentes options de <a href="http://blog.goodvid.io/5-ecommerce-video-trends-for-2016/" target="_blank">galerie vidéo</a> pour trouver la bonne formule.</li>
-<li><strong>Assurez-vous que les vidéos s&rsquo;affichent correctement sur les appareils mobiles.</strong> Dans le monde mobile actuel, les consommateurs exigent une compatibilité totale de votre boutique en ligne, quel que soit l&rsquo;appareil qu&rsquo;ils utilisent pour y accéder. Pensez à appliquer le responsive design aux vidéos pour une résolution optimale sur les appareils mobiles.</li>
-</ol>
-<h2 style="color:#474474">Que faire à présent ?</h2>
-<p>Une fois votre stratégie de marketing vidéo définie dans les grandes lignes, testez les vidéos sur votre site e-commerce. Voici quelques points à vérifier :</p>
-<ul style="padding-left: 30px">
-<li>le comportement des acheteurs potentiels sur les pages avec ou sans vidéo ;</li>
-<li>le taux de visualisation des vidéos ;</li>
-<li>la durée de visualisation des vidéos ;</li>
-<li>l&rsquo;impact des vidéos sur la durée des sessions et le nombre de pages visitées ;</li>
-<li>les taux de conversion des pages avec ou sans vidéo.</li>
-</ul>
-<p>Ces informations sur le comportement des acheteurs potentiels vous seront utiles pour choisir l&rsquo;approche qu&rsquo;il vous faut. Les vidéos sont un atout considérable pour votre stratégie marketing. Perfectionnez votre stratégie vidéo en testant différentes solutions, pour proposer à vos acheteurs une expérience client inégalée et des vidéos captivantes !  </p>
-<h2 style="color:#474474">À propos de l&rsquo;auteur</h2>
-<p><img class="alignleft size-full wp-image-21235" alt="miljana-mitic" src="https://www.prestashop.com/blog/fr/files/2016/03/miljana-mitic.png" width="100" height="100" /></p>
-<p>Miljana Mitic est responsable Content Marketing chez <a href="https://goodvid.io/" target="_blank">Goodvidio</a>, une solution SaaS permettant aux e-commerçants de proposer les meilleurs vidéos produit des réseaux sociaux sur leur site. Miljana est titulaire d&rsquo;un doctorat en marketing via réseaux sociaux et écrit des articles expliquant comment tirer le meilleur parti des vidéos produit pour l&rsquo;e-commerce. Elle aime découvrir de nouveaux restaurants, lire, jouer avec les chiens et regarder des vidéos « haul » sur YouTube dans lesquelles les internautes montrent leurs derniers achats. </p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/comment-mettre-en-place-strategie-marketing-video-site-e-commerce/">Comment mettre en place une stratégie de marketing vidéo pour votre site e-commerce</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.prestashop.com/blog/fr/comment-mettre-en-place-strategie-marketing-video-site-e-commerce/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>4 conseils pour optimiser les performances de votre boutique en ligne</title>
-		<link>https://www.prestashop.com/blog/fr/4-conseils-optimiser-les-performances-boutique-en-ligne/</link>
-		<comments>https://www.prestashop.com/blog/fr/4-conseils-optimiser-les-performances-boutique-en-ligne/#comments</comments>
-		<pubDate>Thu, 17 Mar 2016 10:28:29 +0000</pubDate>
-		<dc:creator><![CDATA[Les amis de Preston]]></dc:creator>
-				<category><![CDATA[Conseils E-commerce]]></category>
-
-		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19790</guid>
-		<description><![CDATA[<p>Si la plupart des e-commerçants sont conscients de l&#8217;importance des métriques, peu d&#8217;entre eux surveillent leurs performances de près dès le départ. Pourtant, ils laissent ainsi passer des données précieuses qui pourraient influer sur les prises de décisions et la réussite de leur entreprise. Dans cette vidéo, l’expert de l’agence web Business Tech, vous montrera [...]</p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/4-conseils-optimiser-les-performances-boutique-en-ligne/">4 conseils pour optimiser les performances de votre boutique en ligne</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p>Si la plupart des e-commerçants sont conscients de l&rsquo;importance des métriques, peu d&rsquo;entre eux surveillent leurs performances de près dès le départ. Pourtant, ils laissent ainsi passer des données précieuses qui pourraient influer sur les prises de décisions et la réussite de leur entreprise. Dans cette vidéo, l’expert de l’agence web <a href="http://www.businesstech.fr/fr/content/10-4l3p-ecommerce-par-business-tech" target="_blank">Business Tech</a>, vous montrera les étapes clés pour optimiser les  performances de votre boutique en ligne, à l&rsquo;aide des métriques :<br />
-<span id="more-19790"></span></p>
-<ul style="padding-left:30px">
-<li>Définition des objectifs,</li>
-<li>Choix des métriques,</li>
-<li>Utilisation d&rsquo;outils analytiques dédiés,</li>
-<li>Optimisation de la boutique en ligne.</li>
-</ul>
-<p><iframe width="700" height="394" src="https://www.youtube.com/embed/0acJfI8fn-0?feature=oembed" frameborder="0" allowfullscreen></iframe></p>
-<div class="text-center"><a class="btn" href="https://www.youtube.com/user/prestashop" target="_blank" style="background-color: #E62117;border: 1px solid #E62117;border-bottom: 3px solid #CC181E;margin: 20px 0 0;color: #fff">Abonnez-vous à notre chaîne Youtube pour plus de vidéos !</a></div>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/4-conseils-optimiser-les-performances-boutique-en-ligne/">4 conseils pour optimiser les performances de votre boutique en ligne</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.prestashop.com/blog/fr/4-conseils-optimiser-les-performances-boutique-en-ligne/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
-		</item>
-		<item>
-		<title>Le PIM : plus vite, plus loin dans la gestion de vos données produits</title>
-		<link>https://www.prestashop.com/blog/fr/pim-vite-loin-gestion-vos-donnees-produits/</link>
-		<comments>https://www.prestashop.com/blog/fr/pim-vite-loin-gestion-vos-donnees-produits/#comments</comments>
-		<pubDate>Wed, 16 Mar 2016 08:20:03 +0000</pubDate>
-		<dc:creator><![CDATA[Les amis de Preston]]></dc:creator>
-				<category><![CDATA[Conseils E-commerce]]></category>
-
-		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19775</guid>
-		<description><![CDATA[<p>Après une première décennie passée à rivaliser, les canaux de distribution traditionnels et les canaux digitaux s’unissent désormais pour mieux répondre aux attentes de leurs clients. D’une stratégie multi-canal… Aujourd’hui le site e-commerce est un véritable vecteur de trafic et de chiffre d’affaires pour les réseaux traditionnels, du moins pour ceux qui l’utilisent correctement. Web-to-store, [...]</p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/pim-vite-loin-gestion-vos-donnees-produits/">Le PIM : plus vite, plus loin dans la gestion de vos données produits</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p><strong>Après une première décennie passée à rivaliser, les canaux de distribution traditionnels et les canaux digitaux s’unissent désormais pour mieux répondre aux attentes de leurs clients.</strong><br />
-<span id="more-19775"></span></p>
-<h2 style="color:#663b8f">D’une stratégie multi-canal…</h2>
-<p>Aujourd’hui le site e-commerce est un véritable vecteur de trafic et de chiffre d’affaires pour les réseaux traditionnels, du moins pour ceux qui l’utilisent correctement.</p>
-<p>Web-to-store, web in store… de plus en plus, les webmarchands mettent en œuvre des fonctionnalités e-commerce destinées à driver une partie de la clientèle, qui aurait été perdue, vers les réseaux physiques. </p>
-<p>Proposer un catalogue produit est une chose, vendre en ligne c’est bien une autre.</p>
-<p>Aujourd’hui, rediriger un client à la recherche d’un produit en ligne hors stock vers un point de vente, ou permettre au client de préparer son achat en ligne et de venir retirer son produit en magasin, se révèle plus efficace !</p>
-<p>Il s’agit en effet d’un levier d’augmentation du chiffre d’affaires, qui saura appuyer l’image de la marque véhiculée uniformément par l’ensemble des canaux de distribution. Il permet par ailleurs l’acceptation du canal e-commerce par le réseau de distribution traditionnel. </p>
-<h2 style="color:#663b8f">…vers une expérience customer centric !</h2>
-<p>La multiplication des canaux de distribution est aujourd’hui un fait. Cette tendance avérée engendre des contraintes nouvelles de gestion et de pilotage du catalogue auxquelles il faut répondre avec la solution adéquate.</p>
-<p>Jusqu’à présent la plupart des canaux cohabitaient mais traitaient chacun leur problématique catalogue individuellement.</p>
-<p>Le canal papier – dont la star reste le catalogue &#8211; était en général confié à une agence de communication, qui chaque année passait des semaines voir des mois à agréger quasi manuellement des données diverses et variées sous InDesign.</p>
-<p>Le réseau de magasins se contentait généralement de données en provenance de solutions applicatives externes (ERP) pour obtenir une information relative au stock ou au prix. Le canal e-commerce, de son côté, jonglait entre son ERP, des outils d’enrichissement assez archaïques (type fichiers Excel) pour obtenir un flux à peu près exploitable pour construire et enrichir un catalogue PrestaShop… </p>
-<p>Au final, on avait des sources de données multiples et hétérogènes, des ressources qui faisaient et refaisaient le même travail chaque année et sans aucune économie d’échelle. Le résultat : des données non structurées et inexploitables d’un canal à l’autre. </p>
-<p><strong>Mais ça c’était avant ! </strong></p>
-<h2 style="color:#663b8f">Vive le PIM !</h2>
-<p>Le développement de l’omnicanal impose un changement radical dans ces méthodes d’exploitation du catalogue produit. Sont alors apparues les solutions de PIM : <strong>Product Information Management</strong>. </p>
-<p>Le PIM propose concrètement 3 grandes fonctions : </p>
-<ul style="padding-left: 30px">
-<li><strong>La collecte et la centralisation de vos données </strong></li>
-<li><strong>L’enrichissement et le maintien de ces informations</strong></li>
-<li><strong>La diffusion de vos catalogues, adaptés à vos canaux de distribution</strong></li>
-</ul>
-<p>Nous allons ici traiter d’un exemple concret au travers de ce qu’il est possible de faire entre une plateforme <strong>PIM Open Source</strong> qui est en train de prendre une position de leader sur le marché : <strong>Akeneo</strong>, le tout couplé à de multiples canaux, dont un canal e-commerce fièrement représenté par le site marchand PrestaShop. </p>
-<p><img src="https://www.prestashop.com/blog/fr/files/2016/03/pim.png" alt="pim" width="970" height="435" class="aligncenter size-full wp-image-19781" /></p>
-<h4 style="color:#663b8f">Collecter vos informations produits pour bénéficier d’une base unique</h4>
-<p>L’applicatif PIM permet d’agréger les flux de données produits, quel que soit leur provenance pour constituer un référentiel produit fiable et à jour. Tout comme l’ERP est le point central de traitement des commandes, le PIM devient le point de référence pour la base produits, et dispose de toutes les informations nécessaires à l’alimentation des différents canaux de diffusion. </p>
-<p><img src="https://www.prestashop.com/blog/fr/files/2016/03/collect-fr.png" alt="collect-fr" width="943" height="439" class="aligncenter size-full wp-image-19778" /></p>
-<h4 style="color:#663b8f">Enrichir vos données pour améliorer l’expérience client</h4>
-<p>Vient ensuite la phase d’enrichissement. Le PIM permet alors de disposer d’une interface ergonomique permettant de piloter tout l’enrichissement du catalogue, l’ajout d’informations froides (<em>c’est-à-dire des données qui n’évoluent pas en fonction de critères comme un prix remisé par exemple qui est une information qui reste en générale pilotée par l’ERP</em>), d’attributs spécifiques communs ou spécifiques à chaque canal de diffusion. Le PIM permettra également de gérer l’ensemble des médias comme les images produits qui imposeront des contraintes spécifiques en fonction du canal de diffusion (on ne publie pas en ligne une image très haute définition comme on le fait pour un catalogue print par exemple, même si la source initiale est la même : c’est pourquoi le PIM permettra la gestion automatisée et la transformation de ces médias &#8211; redimensionnement, traitement, etc. -).</p>
-<p>Pour enrichir efficacement un produit, il faut avoir de la visibilité sur l’état de son catalogue. C’est là aussi que le PIM apportera beaucoup de souplesse et permettra de gagner un temps précieux. En effet, le PIM permettra de suivre la complétude du catalogue canal par canal. Concrètement : savoir que le produit X est publiable sur le site marchand FR mais qu’il reste un élément de traduction pour la version UK ou un attribut complémentaire à renseigner pour envoyer à l’impression le catalogue papier réservé aux professionnels.</p>
-<p>Le PIM permettra ensuite, au travers de la gestion de profils associés à des workflows de validation, de travailler en équipe avec des ressources dédiées à certaines tâches ou certains canaux, et d’autres chargées par exemple de valider le travail d’enrichissement réalisé. Ce mode collaboratif permet de gagner énormément de temps dans la gestion du catalogue, chose qui n’est pas possible pour un marchand habitué à gérer son référentiel produit au travers de multiples fichiers transmis de personnes à personnes avant validation. </p>
-<p>On arrive donc à gérer plus efficacement et plus rapidement un catalogue de bien meilleure qualité, au service de votre discours de marque.</p>
-<p>Dans les projets que nous réalisons ces derniers mois, on constate des gains de l’ordre de 50% entre la volumétrie catalogue qu’espérait gérer le marchand et ce qu’il arrive à traiter effectivement dans un même temps donné, avec moins de ressources ! Gain de temps non négligeable et réduction du <strong>time-to- market</strong> à la clé. </p>
-<p><img src="https://www.prestashop.com/blog/fr/files/2016/03/enrichir-fr.png" alt="enrichir-fr" width="911" height="463" class="aligncenter size-full wp-image-19780" /></p>
-<h4 style="color:#663b8f">Diffuser facilement des catalogues adaptés à vos canaux de distribution</h4>
-<p>Une fois ce travail d’enrichissement réalisé, il ne reste plus qu’à diffuser les données produits sur les différents canaux, grâce à des flux d’alimentation automatisés.<br />
-C’est ici que le PIM devient bluffant car il permet par exemple d’alimenter non seulement les canaux numériques (E-commerce, Mobile), mais va jusqu’à permettre d’alimenter automatiquement des gabarits InDesign pour préparer 90% du travail de conception d’un catalogue papier. Les chiffres remontés par les spécialistes du print avec lesquels nous avons collaborés sont assez éloquents : là où la préparation d’un catalogue d’envergure prenait 6 mois, ce travail est désormais réalisé en quelques semaines avec 50% de ressources en moins mobilisées, pour le même rendu qualitatif. </p>
-<p><img src="https://www.prestashop.com/blog/fr/files/2016/03/controler-fr.png" alt="controler-fr" width="934" height="443" class="aligncenter size-full wp-image-19779" /></p>
-<h2 style="color:#663b8f">L’avènement du PIM Open Source !</h2>
-<p>Les plateformes de Product Information Management étaient, jusqu’à il y a peu de temps, réservés aux gros marchands gérant de très gros volumes et disposant des ressources financières pour s’offrir des licences à plusieurs centaines de milliers d’euros.</p>
-<p>Avec l’avènement du PIM Open Source, ce type de plateforme devient très accessible, et n’importe quelle entreprise disposant de plusieurs canaux de diffusion a aujourd’hui intérêt à jeter un œil attentif au PIM qui viendra se placer en amont du système d’information aux cotés de l’ERP. </p>
-<p>C’est une petite révolution qui s’opère dans le monde de la distribution, ou la précision de l’information (produit) délivrée devient un véritable enjeu. Au-delà des gains purement financiers c’est également un élément fédérateur car il est clair que les entreprises sont souvent confrontées au manque d’homogénéité des données produits et à la dispersion de ces informations qui peuvent avantageusement être centralisées au travers du PIM. </p>
-<p>Avec des fiches produits disposant d’un contenu de qualité, les bénéfices se font ressentir jusque sur le SEO. L’expérience client n’est pas en reste, avec une fiche produit bien renseignée l’internaute dispose de tous les éléments pour évaluer le produit, ses caractéristiques. Informations trouvées, interrogations levées, le visiteur a plus de chance de passer à l’ajout au panier et à la finalisation de sa commande.</p>
-<p>Cette considération, qui peut pourtant paraître essentielle mais basique, prend tout son sens confrontée aux chiffres de la FEVAD qui estime qu’aujourd’hui 80% des données de l’e-commerce mondial sont erronées car inadaptées au canal de communication. <strong>Délivrer un message juste, c’est donc potentiellement prendre l’avantage sur 80% de vos concurrents directs.</strong></p>
-<p>Le PIM n’a donc pas fini de faire parler de lui et sera demain une brique incontournable de tout projet marchand. Les solutions sont simples à mettre en œuvre pour un ROI quasi immédiat et un confort de travail pour les équipes métiers indispensable. </p>
-<p><strong>A propos de Synolia :</strong> Synolia est partenaire PrestaShop depuis de longues années. C’est aussi un des principaux acteurs du PIM Open Source avec un partenariat privilégié avec Akeneo, éditeur PIM Open Source qui est en train de conquérir de nombreuses parts de marché en France (cocorico, c’est une société Française !) et à l’international. Synolia a réalisé le connecteur PrestaShop-Akeneo qui équipe aujourd’hui de nombreux marchands. Basé à Lyon et Paris, Synolia est spécialiste des projets ambitieux en E-commerce, gestion de la relation client et B.I.</p>
-<p>Pour plus d’informations sur Akeneo et PrestaShop consultez le micro site dédié : <a href="http://akeneo.synolia.com/" target="_blank">http://akeneo.synolia.com/</a> ou le site synolia : <a href="http://www.synolia.com/" target="_blank">www.synolia.com</a> </p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/pim-vite-loin-gestion-vos-donnees-produits/">Le PIM : plus vite, plus loin dans la gestion de vos données produits</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.prestashop.com/blog/fr/pim-vite-loin-gestion-vos-donnees-produits/feed/</wfw:commentRss>
-		<slash:comments>0</slash:comments>
-		</item>
-		<item>
-		<title>3 manières de personnaliser le parcours client et booster vos ventes en ligne</title>
-		<link>https://www.prestashop.com/blog/fr/3-manieres-personnaliser-parcours-client-booster-vos-ventes-en-ligne/</link>
-		<comments>https://www.prestashop.com/blog/fr/3-manieres-personnaliser-parcours-client-booster-vos-ventes-en-ligne/#comments</comments>
-		<pubDate>Mon, 14 Mar 2016 08:56:19 +0000</pubDate>
-		<dc:creator><![CDATA[Les amis de Preston]]></dc:creator>
-				<category><![CDATA[Conseils E-commerce]]></category>
-
-		<guid isPermaLink="false">https://www.prestashop.com/blog/fr/?p=19755</guid>
-		<description><![CDATA[<p>75 % des consommateurs apprécient les expériences de shopping personnalisées, et 54 % se disent même prêts à ne plus faire d&#8217;achats chez les commerçants ne proposant pas de contenus ou offres sur mesure. Il est donc évident que la personnalisation exigée par ces consommateurs donne la tendance pour l’avenir. 94 % des entreprises reconnaissent [...]</p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/3-manieres-personnaliser-parcours-client-booster-vos-ventes-en-ligne/">3 manières de personnaliser le parcours client et booster vos ventes en ligne</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></description>
-				<content:encoded><![CDATA[<p><strong>75 %</strong> des consommateurs apprécient les expériences de shopping personnalisées,<br />
-et <strong>54 %</strong> se disent même prêts à ne plus faire d&rsquo;achats chez les commerçants ne proposant pas de contenus ou offres sur mesure.</p>
-<p>Il est donc évident que la personnalisation exigée par ces consommateurs donne la tendance pour l’avenir.</p>
-<p>94 % des entreprises reconnaissent qu&rsquo;elle est « essentielle à leur réussite actuelle et à venir ». Cela étant dit, les e-commerçants peuvent-ils répondre à cette attente de manière efficace ?<br />
-<span id="more-19755"></span><br />
-Selon le cabinet d&rsquo;étude <a href="http://www.gartner.com/technology/home.jsp" target="_blank">Gartner</a>, ce n&rsquo;est pas le cas aujourd&rsquo;hui. Dans un rapport publié récemment, Gartner souligne une certaine « confusion au sein du marché en ce qui concerne le concept de personnalisation ». Une tendance inquiétante compte tenu de l&rsquo;impact potentiel du sur-mesure dans le domaine du commerce en ligne.</p>
-<p>Qu&rsquo;entend-on alors par « personnalisation » ? Comment l&rsquo;appliquer à votre boutique PrestaShop pour améliorer votre activité de manière significative et durable ?</p>
-<p>La personnalisation implique en premier lieu de proposer des contenus et des expériences personnalisés tout au long du parcours client. Autrement dit, vous devez transmettre des informations appropriées à la bonne personne au moment opportun.</p>
-<p>Lorsqu&rsquo;elles sont mises en œuvre de manière efficace, les stratégies à long terme visant à améliorer la valeur du cycle de vie du client peuvent booster :</p>
-<ul style="padding-left: 30px;">
-<li>la conversion,</li>
-<li>le montant moyen des commandes,</li>
-<li>la rétention client,</li>
-<li>le chiffre d&rsquo;affaires global.</li>
-</ul>
-<p>Les solutions de personnalisation les plus développées sont automatisées et faciles à mettre en place, à optimiser et à gérer. Malgré leur simplicité, elles représentent un outil à long terme qui vous permettra d&rsquo;améliorer vos KPI et la satisfaction client : ne vous attendez pas à des résultats instantanés.</p>
-<p>Pourquoi ? La personnalisation repose sur l&rsquo;identification et le développement de relations entre les comportements des consommateurs et les caractéristiques produit, qui permettent ensuite de déterminer les articles que les clients sont susceptibles d&rsquo;apprécier et d&rsquo;acheter. Avec un trafic important et une offre diversifiée, vous pourrez identifier ces relations très rapidement.</p>
-<p>Le trafic de votre site est suffisant et vous proposez une vaste gamme de produits, mais souhaitez améliorer vos KPI.</p>
-<p>Comment procéder ? Penchons-nous maintenant sur trois aspects précis de la personnalisation que vous pouvez appliquer concrètement au parcours de vos clients.</p>
-<h4 style="color: #ce0587;">Filtrage collaboratif :</h4>
-<p><em>Ajuster le parcours d&rsquo;achat en fonction des comportements client, notamment avec les meilleures ventes.</em></p>
-<p>Ce type de personnalisation repose sur l&rsquo;hypothèse selon laquelle les utilisateurs adoptent un comportement de groupe régi par des normes sociétales et renforcé par la validation de leurs pairs.</p>
-<p>Concrètement, cela se traduit par la mise en avant des meilleures ventes et des produits les plus populaires : ainsi, vous améliorez la conversion tout en rassurant les consommateurs avec des articles appréciés par le plus grand nombre.</p>
-<h4 style="color: #ce0587;">Segmentation :</h4>
-<p><em>Cibler les individus au sein d&rsquo;un groupe caractérisé par des valeurs communes, notamment les critères démographiques, la localisation ou le type d&rsquo;appareil utilisé.</em></p>
-<p>Cela implique des changements très simples, comme le réglage automatique de la langue de votre site pour les adresses IP de différents pays ou d&rsquo;autres paramètres basés sur des algorithmes plus complexes et automatisés.</p>
-<p>Vous pouvez par exemple modifier automatiquement les contenus des publicités pour proposer des produits pertinents par rapport au public visé. Même s&rsquo;il manque la dimension individuelle, ce type de personnalisation est ciblé.</p>
-<h4 style="color: #ce0587;">Personnalisation individuelle :</h4>
-<p><em>Proposer une expérience e-commerce sur mesure pour chaque client, notamment en affichant des produits « recommandés pour vous ». Il s&rsquo;agit ici de ce que les puristes considèrent comme la « véritable » personnalisation.</em></p>
-<p>Ces mesures peuvent être mises en œuvre en temps réel en fonction des changements de comportements immédiats, à l&rsquo;aide des profils client individuels ou sur le long terme en exploitant l&rsquo;historique des données.</p>
-<p>Dans le cadre du profilage client, les informations proviennent souvent de multiples sources de données, notamment la localisation, le comportement sur le site ou ailleurs sur le Web et les interactions avec les e-mails reçus. Cela permet ensuite d&rsquo;identifier les centres d&rsquo;intérêt et le contexte, voire le positionnement du consommateur dans le cycle d&rsquo;achat.</p>
-<p>La personnalisation est applicable à l&rsquo;ensemble du processus d&rsquo;achat, notamment au niveau de l&rsquo;acquisition de clients, de la conversion, de la rétention et de la satisfaction. Voici un exemple de parcours entièrement sur mesure que vous pourriez mettre en œuvre en vous appuyant sur un maximum de stratégies de personnalisation.</p>
-<h2 style="color: #ce0587;">La personnalisation, vecteur de trafic qualifié :</h2>
-<p>Cela implique avant tout de personnaliser l&rsquo;affichage des produits ou des publicités sur les réseaux sociaux. Pour mettre en œuvre cette stratégie, ciblez des publics définis ou concentrez-vous sur le niveau individuel à l&rsquo;aide du reciblage.</p>
-<p>Les publicités proposant des produits personnalisés génèrent des taux de clics 10 fois plus élevés que les publicités classiques, avec une moyenne de Retour sur Investissement 36 fois plus élevé avec la solution Nosto Personalized Facebook Ads.</p>
-<p><strong>Exemple :</strong></p>
-<p><img class="aligncenter size-full wp-image-21300" alt="dealer-de-coque" src="https://www.prestashop.com/blog/fr/files/2016/03/dealer-de-coque.png" width="498" height="393" /></p>
-<p><a href="http://dealerdecoque.fr/" target="_blank">Dealer de Coque</a> incite les utilisateurs de Facebook à consulter sa boutique à l&rsquo;aide de <a href="http://www.nosto.com/features/facebook-ads/" target="_blank">publicités Facebook personnalisées</a> présentant ses produits du moment.</p>
-<p>Ces catégories « meilleures ventes » sont automatiquement mises à jour régulièrement pour afficher les articles les plus appréciés, et donc les plus susceptibles de convertir.</p>
-<p>Les publicités affichées s&rsquo;ajustent en fonction du comportement de l&rsquo;utilisateur en temps réel et des stocks disponibles : ainsi, les produits épuisés ne sont jamais pris en compte. La mise en avant des produits populaires avec ce type de publicité permet de multiplier le taux de clics par 13.</p>
-<h2 style="color: #ce0587;">La personnalisation au service de la conversion :</h2>
-<p><em>Les recommandations produit affichées automatiquement sur votre site guident et personnalisent le parcours des clients.</em></p>
-<p>Selon Infosys, 86 % des utilisateurs indiquent que la personnalisation influe sur leur décision d&rsquo;achat. D&rsquo;autre part, les éléments personnalisés sur lesquels les clients cliquent augmentent la probabilité d&rsquo;achat de 125 %.</p>
-<p>Vous pouvez également utiliser des fenêtres pop-up pour proposer des offres spéciales à durée limitée et des réductions ponctuelles ciblées en fonction du comportement ou du profil du client concerné. Ces éléments permettent d&rsquo;augmenter le taux de conversion de 55 % en moyenne pour les clients effectuant une première visite sur votre site.</p>
-<p><strong>Exemple :</strong></p>
-<p><img class="aligncenter size-large wp-image-21299" alt="planetfitness" src="https://www.prestashop.com/blog/fr/files/2016/03/planetfitness-714x1024.png" width="500" /></p>
-<p><a href="http://www.planetfitness.com/" target="_blank">Planet Fitness</a> souhaitait proposer un service hautement personnalisé pour répondre aux attentes de plus en plus strictes de ses clients. Disposant d&rsquo;une vaste gamme de produits complémentaires, la boutique devait également permettre aux clients de trouver les articles les plus pertinents avec précision au sein de son offre.</p>
-<p>À l&rsquo;aide de la personnalisation sur son site, Planet Fitness a ainsi pu proposer des recommandations produit parfaitement ciblées en se basant sur les marques et les catégories de produits les plus appréciées des clients, ainsi que sur les comportements d&rsquo;achat individuels.</p>
-<p>Ces recommandations ont permis de proposer une expérience pertinente à leurs clients, et d&rsquo;augmenter le taux de conversion de 11 %.</p>
-<h2 style="color: #ce0587;">La personnalisation au service de la rétention et de la promotion :</h2>
-<p><em>Adapter les contenus des newsletters de manière dynamique pour proposer des informations sur mesure à chaque destinataire, notamment à l&rsquo;aide de textes et images modifiables ou de recommandations produit.</em></p>
-<p>La personnalisation des e-mails permet d&rsquo;augmenter le taux de clics de 14 %.</p>
-<p><strong>Exemple :</strong></p>
-<p><img class="aligncenter size-large wp-image-21297" alt="mylittlesquare" src="https://www.prestashop.com/blog/fr/files/2016/03/mylittlesquare-573x1024.png" width="300" /></p>
-<p>En envoyant <a href="http://addons.prestashop.com/fr/18349-nostotagging.html" target="_blank">des e-mails personnalisés pour les paniers abandonnés</a>, <a href="http://www.mylittlesquare.com/" target="_blank">My Little Square</a> propose des produits pertinents à ses clients au bon moment, ce qui lui permet d&rsquo;améliorer son taux de rétention.</p>
-<p>Les e-mails proposant des offres automatiques en fonction des comportements individuels sont plus efficaces que les recommandations produit classiques, avec un taux de clics 10 fois supérieur à la moyenne du secteur.</p>
-<p>Pour résumer : en proposant une expérience d&rsquo;achat plus conviviale, simple, agréable et personnalisée, vous boosterez le taux de satisfaction de vos clients, qui seront plus enclins à acheter vos produits plus régulièrement, et donc à vous faire confiance.</p>
-<p>Appuyez-vous sur la personnalisation pour multiplier votre conversion, la valeur moyenne des commandes et celle du cycle de vie client (métriques clés pour le succès de votre activité).</p>
-<p>En améliorant l&rsquo;expérience client à toutes les étapes du processus d&rsquo;achat, vous optimiserez automatiquement les métriques concernées.</p>
-<p>Découvrez gratuitement le module <a href="http://addons.prestashop.com/fr/18349-nostotagging.html" target="_blank">Nosto</a> pendant 14 jours pour générer plus de trafic et profiter au maximum des fonctionnalités de personnalisation.</p>
-<p><em>Sources: <a href="http://www.aberdeen.com/research/4904/ra-email-marketing/content.aspx" target="_blank">Aberdeen Group</a>, <a href="https://www.nchannel.com/blog/retail-data-ecommerce-statistics/" target="_blank">NChannel blog</a>, <a href="http://www.etailcore.com/blog/personalisation-is-critical/" target="_blank">etailcore</a>, <a href="http://www.getelastic.com/display-retargeting-are-personalized-ads-better-than-generic/" target="_blank">getelastic</a>, <a href="http://www.gigya.com/blog/5-stats-that-prove-businesses-must-personalize-to-win-customers/" target="_blank">gigya</a>.</em></p>
-<p>Cet article <a rel="nofollow" href="https://www.prestashop.com/blog/fr/3-manieres-personnaliser-parcours-client-booster-vos-ventes-en-ligne/">3 manières de personnaliser le parcours client et booster vos ventes en ligne</a> est apparu en premier sur <a rel="nofollow" href="https://www.prestashop.com/blog/fr">FR - Blog ecommerce par PrestaShop</a>.</p>
-]]></content:encoded>
-			<wfw:commentRss>https://www.prestashop.com/blog/fr/3-manieres-personnaliser-parcours-client-booster-vos-ventes-en-ligne/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>

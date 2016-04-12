@@ -1,5 +1,19 @@
 @import 'bootstrap_lib/_variables';
 
+/*
+Theme colors:
+Bleu 1: #0770b3
+Bleu 2: #088CC2
+Turquoise 1: #05A498
+Turquoise 2: #0AD6B2
+Beige: #F3B783
+Gris: #999999
+Noir: #000
+blanc: #fff
+*/
+
+
+
 //------- FONTS
 $font-family:				  		Arial, Helvetica, sans-serif;
 $font:						  		normal 13px/18px $font-family;
@@ -18,7 +32,7 @@ $homepage-footer-border:            #d9d9d9;
 //--------- BACKGROUNDS
 $base-box-bg:                       #fbfbfb;
 $table-background:                  $base-box-bg;
-$dark-background:                   #333;
+$dark-background:                   #0770b3;
 $light-background:                  #fff;
 $homepage-footer-bg:                #f2f2f2;
 
@@ -33,6 +47,16 @@ $link-hover-color:                  $link-hover-color;
 $description-color:					#666;
 
 
+$blue1: #0770b3;
+$blue2: #088CC2;
+$turquoise1: #05A498;
+$turquoise2: #0AD6B2;
+$beige: #F3B783;
+$gray: #999999;
+$black: #000;
+$white: #fff;
+
+
 //--------- Indents
 $base-page-indent:                 	$grid-gutter-width;
 $base-box-padding:                  14px 18px 13px;
@@ -44,7 +68,7 @@ $product-name-hover-color:          #515151;
 $price-color:						$base-body-color;
 $product-price-color:				$base-text-color;
 $product-reduced-price:				#f00;
-$product-special-price-color:		#f13340;
+$product-special-price-color:		$turquoise2;
 $product-old-price-color:			#6f6f6f;
 
 //---------- Buttons

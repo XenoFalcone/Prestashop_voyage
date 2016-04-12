@@ -1,7 +1,18 @@
+/*
+Theme colors:
+Bleu 1: #0770b3
+Bleu 2: #088CC2
+Turquoise 1: #05A498
+Turquoise 2: #0AD6B2
+Beige: #F3B783
+Gris: #999999
+Noir: #000
+blanc: #fff
+*/
 .header_user_info {
   float: right;
-  border-left: 1px solid #fff;
-  border-right: 1px solid #fff; }
+  border-left: 1px solid #515151;
+  border-right: 1px solid #515151; }
   .header_user_info a {
     color: #fff;
     font-weight: bold;

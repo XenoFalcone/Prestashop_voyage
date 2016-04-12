@@ -1,3 +1,14 @@
+/*
+Theme colors:
+Bleu 1: #0770b3
+Bleu 2: #088CC2
+Turquoise 1: #05A498
+Turquoise 2: #0AD6B2
+Beige: #F3B783
+Gris: #999999
+Noir: #000
+blanc: #fff
+*/
 /******************************************************************************
 						Home Page Slider
 *******************************************************************************/
@@ -112,7 +123,7 @@
       z-index: 2;
       padding: 16px 0 0 0; }
     #homepage-slider .bx-wrapper .bx-controls-direction a:hover:before {
-      background: #333;
+      background: #0770b3;
       opacity: 0.83; }
   #homepage-slider .bx-wrapper .bx-prev {
     right: 60px;
@@ -123,6 +134,6 @@
     content: "\f054"; }
 
 .ie8 #homepage-slider .bx-wrapper .bx-controls-direction a:before {
-  background: #333; }
+  background: #0770b3; }
 
 /*# sourceMappingURL=homeslider.css.map */
